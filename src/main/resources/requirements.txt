@@ -1,0 +1,25 @@
+1. User should be able to add Expense.
+2. Split should be happened b/w friends.
+3. Splitting Types -> equal
+                   -> unequal -> specify exact cost of each person
+                              -> specify percentage between each person
+4. Constraint -> total sum == sum of split sum, Problem with floats
+5. User logged, in see all his transaction with other people, balances.
+6. Expense details -> name, date, addedBy, image, location, category (Currency)
+7. User should be able to settle balance with friend.
+
+
+7. User should be able to create groups.
+8. Expense can be of a group.
+9. Simplifying debt.
+
+
+
+----------------------------------------------------------------------------------------------------------
+// decide your precision
+
+Entities
+
+User
+Expense
+Group
